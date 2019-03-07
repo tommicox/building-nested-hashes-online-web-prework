@@ -3,8 +3,12 @@ def first_challenge
      :montague => {
        :partriarch => {
          :name => "Lord Montague",
-         :age => "53"},
+         :age => "53"
+         },
        :matriarch => {
+         :name => "Lady Montague",
+         :age => "54"
+       }
         
       }
      :capulet => {}
